@@ -1,0 +1,10 @@
+receptor = sbebcd.pdbqt
+ligand = lanreotide.pdbqt
+
+center_x = 0
+center_y = 0
+center_z = 0
+
+size_x = 25
+size_y = 25
+size_z = 25
